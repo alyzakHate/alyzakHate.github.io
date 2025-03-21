@@ -1,4 +1,3 @@
-# alyzakHate.github.io
 <html>
 
 <body>
